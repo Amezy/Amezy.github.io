@@ -1,4 +1,4 @@
-## Welcome to Amezyu's Site
+## Welcome to Amezy's Site
 
 ### Markdown
 
